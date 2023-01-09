@@ -28,3 +28,6 @@
 - Instruction :
     - "chmod" : toggle the mode
     - "exit" : exit
+
+## Usage
+- Just run ```simulation.py```
