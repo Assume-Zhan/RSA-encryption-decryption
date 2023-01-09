@@ -15,3 +15,16 @@
         - If Q not given e : input -1
 
 ## Public and private key
+- Public key : [n, e]
+- Private key : [n, d]
+
+## Enc, Dec
+- Mode : "enc"
+    - Input : original message
+    - Output : encrypted message
+- Mode : "dec"
+    - Input : encrypted message
+    - Output : original message
+- Instruction :
+    - "chmod" : toggle the mode
+    - "exit" : exit

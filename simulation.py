@@ -17,8 +17,8 @@ def main() :
     public_key, private_key = rsa_setup(mul_n = n, prime_p = prime_p, prime_q = prime_q, e = e)
     
     # Print private key and public key
-    print("Public key : ", public_key)
-    print("Private key : ", private_key)
+    print("Public key   [n, e] : ", public_key)
+    print("Private key  [n, d]: ", private_key)
     
     mode = input("Input mode : ")
 
