@@ -1,4 +1,4 @@
-from euclideam_algorithm import euclidean_algorithm
+from euclidean_algorithm import euclidean_algorithm
 from coprime import isCoprime
 from prime_factorization import prime_factorization
 

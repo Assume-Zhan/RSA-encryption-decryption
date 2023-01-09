@@ -1,4 +1,4 @@
-from euclideam_algorithm import euclidean_algorithm
+from euclidean_algorithm import euclidean_algorithm
 
 
 def isCoprime(number_1, number_2) : 
